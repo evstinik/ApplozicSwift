@@ -35,7 +35,6 @@
 		8BB5339F1F69463B0008C1CF /* ALKCustomVideoCaptureController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB533281F69463B0008C1CF /* ALKCustomVideoCaptureController.swift */; };
 		8BB533A01F69463B0008C1CF /* ALKCustomVideoPreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB533291F69463B0008C1CF /* ALKCustomVideoPreviewViewController.swift */; };
 		8BB533A11F69463B0008C1CF /* ALKDateSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB5332A1F69463B0008C1CF /* ALKDateSectionHeaderView.swift */; };
-		8BB533A21F69463C0008C1CF /* ALKDownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB5332B1F69463B0008C1CF /* ALKDownloadManager.swift */; };
 		8BB533A31F69463C0008C1CF /* ALKFriendCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB5332C1F69463B0008C1CF /* ALKFriendCell.swift */; };
 		8BB533A41F69463C0008C1CF /* ALKFriendContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB5332D1F69463B0008C1CF /* ALKFriendContactCell.swift */; };
 		8BB533A51F69463C0008C1CF /* ALKFriendDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB5332E1F69463B0008C1CF /* ALKFriendDatasource.swift */; };
@@ -170,7 +169,6 @@
 		8BB533281F69463B0008C1CF /* ALKCustomVideoCaptureController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKCustomVideoCaptureController.swift; sourceTree = "<group>"; };
 		8BB533291F69463B0008C1CF /* ALKCustomVideoPreviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKCustomVideoPreviewViewController.swift; sourceTree = "<group>"; };
 		8BB5332A1F69463B0008C1CF /* ALKDateSectionHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKDateSectionHeaderView.swift; sourceTree = "<group>"; };
-		8BB5332B1F69463B0008C1CF /* ALKDownloadManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKDownloadManager.swift; sourceTree = "<group>"; };
 		8BB5332C1F69463B0008C1CF /* ALKFriendCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKFriendCell.swift; sourceTree = "<group>"; };
 		8BB5332D1F69463B0008C1CF /* ALKFriendContactCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKFriendContactCell.swift; sourceTree = "<group>"; };
 		8BB5332E1F69463B0008C1CF /* ALKFriendDatasource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ALKFriendDatasource.swift; sourceTree = "<group>"; };
@@ -447,7 +445,6 @@
 				8BB533371F69463B0008C1CF /* ALKGeocode.swift */,
 				8BB533561F69463B0008C1CF /* ALMessage+Extension.swift */,
 				8BB5335E1F69463B0008C1CF /* CLLocationManager+Extension.swift */,
-				8BB5332B1F69463B0008C1CF /* ALKDownloadManager.swift */,
 				8BB533501F69463B0008C1CF /* ALKPushNotificationHandler.swift */,
 				8BB533391F69463B0008C1CF /* ALKIdentityProtocol.swift */,
 				8BB533121F69463B0008C1CF /* ALKAlertInformation.swift */,
@@ -737,7 +734,6 @@
 				8BB533CD1F69463C0008C1CF /* ALMessage+Extension.swift in Sources */,
 				8BB533971F69463B0008C1CF /* ALKConversationViewController.swift in Sources */,
 				8BB533D01F69463C0008C1CF /* AVCaptureVideoOrientation+Extension.swift in Sources */,
-				8BB533A21F69463C0008C1CF /* ALKDownloadManager.swift in Sources */,
 				8BB533CA1F69463C0008C1CF /* ALKShareLocationViewController.swift in Sources */,
 				8BB533AC1F69463C0008C1CF /* ALKFriendViewModel.swift in Sources */,
 				8BB533C61F69463C0008C1CF /* ALKPreviewPhotoViewController.swift in Sources */,
